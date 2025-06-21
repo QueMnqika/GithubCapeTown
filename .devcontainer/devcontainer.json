@@ -10,8 +10,13 @@
 	},
 
 	"hostRequirements": {
+<<<<<<< HEAD
+		"cpus": 1,
+		"memory": "8gb",
+=======
 		"cpus": 1,
 		"memory": "32gb",
+>>>>>>> 39cbe109079b26e38cdf1c0c3d3cda9841d3e18b
 		"storage": "64gb"
 	},
 
